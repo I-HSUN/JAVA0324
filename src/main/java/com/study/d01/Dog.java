@@ -1,4 +1,4 @@
-package com.study6.d01;
+package com.study.d01;
 public class Dog {
 //物件屬性
 String color; //毛色

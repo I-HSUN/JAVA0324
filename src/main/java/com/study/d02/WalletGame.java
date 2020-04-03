@@ -1,4 +1,4 @@
-package com.study6.d02;
+package com.study.d02;
 
 import java.util.Random;
 import java.util.Scanner;

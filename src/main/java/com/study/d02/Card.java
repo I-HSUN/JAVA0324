@@ -1,4 +1,4 @@
-package com.study6.d02;
+package com.study.d02;
 
 public class Card {
    private String name;//信用卡名稱

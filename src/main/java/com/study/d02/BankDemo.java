@@ -1,4 +1,4 @@
-package com.study6.d02;
+package com.study.d02;
 
 public class BankDemo {
     public static void main(String[] args) {

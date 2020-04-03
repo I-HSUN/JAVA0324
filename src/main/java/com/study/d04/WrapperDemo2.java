@@ -1,4 +1,4 @@
-package com.study6.d04;
+package com.study.d04;
 
 public class WrapperDemo2 {
 

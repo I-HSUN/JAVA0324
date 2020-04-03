@@ -1,5 +1,5 @@
 
-package com.study6.d01;
+package com.study.d01;
 public class PetStoreCat {
 
     public static void main(String[] args) {

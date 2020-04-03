@@ -1,4 +1,4 @@
-package com.study6.d01;
+package com.study.d01;
 
 import java.util.IntSummaryStatistics;
 import java.util.stream.Stream;

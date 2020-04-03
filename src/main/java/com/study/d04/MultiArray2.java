@@ -1,4 +1,4 @@
-package com.study6.d04;
+package com.study.d04;
 
 public class MultiArray2 {
     public static void main(String[] args) {

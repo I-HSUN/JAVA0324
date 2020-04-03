@@ -1,5 +1,5 @@
 
-package com.study6.d01;
+package com.study.d01;
 public class PetStoreBird {
     public static void main(String[] args) {
          Bird b1 = new Bird();

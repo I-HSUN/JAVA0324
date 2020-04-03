@@ -1,4 +1,4 @@
-package com.study6.d01;
+package com.study.d01;
 public class Bird {
 String color;
 String name;

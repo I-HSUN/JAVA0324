@@ -1,6 +1,6 @@
-package com.study6.d03.bar;
+package com.study.d03.bar;
 
-import com.study6.d03.foo.C;
+import com.study.d03.foo.C;
 
 public class A {
     B b;

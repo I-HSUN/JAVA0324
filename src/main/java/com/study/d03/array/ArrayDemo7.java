@@ -1,4 +1,4 @@
-package com.study6.d03.array;
+package com.study.d03.array;
 
 import java.util.stream.IntStream;
 
